@@ -51,16 +51,12 @@ registro-futurista/
 - Tema escuro/claro com alternância dinâmica
 - Efeitos sonoros e partículas interativas
 
-👨‍💻 Autor
-Reinaldo
-Desenvolvedor apaixonado por interfaces criativas e experiências imersivas.
-🔗 LinkedIn(https://www.linkedin.com/in/reinaldodgjunior/) • 🔗 GitHub
+## 👨‍💻 Autor
 
-📄 Licença
-Este projeto está licenciado sob os termos da licença MIT.
+**Reinaldo**  
+Desenvolvedor apaixonado por interfaces criativas, experiências imersivas e projetos com personalidade.
 
----
-
-Se quiser que eu gere uma versão com links reais, GIF de demonstração ou que publique isso direto no GitHub com você, é só me chamar!
-
+- 🌐 [Portfólio](https://github.com/ReinaldoJuniorDev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/reinaldodgjunior/)
+- 📧 Email: [rdgjunior2025@gmail.com](rdgjunior2025@gmail.com)
 
