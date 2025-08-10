@@ -8,10 +8,6 @@ Uma página de registro com visual cibernético, animações neon e validação 
 
 ---
 
-## 🖼️ Preview
-
-![Registro Futurista - Preview](https://via.placeholder.com/800x400.png?text=Registro+Futurista+Preview)
-
 > Interface inspirada em temas sci-fi, com botões pulsantes, fundo animado e validação interativa.
 
 ---
@@ -37,11 +33,11 @@ Uma página de registro com visual cibernético, animações neon e validação 
 ---
 
 ## 📁 Estrutura de Arquivos
-registro-futurista/ 
-├── index.html         # Página de login 
-├── registro.html      # Página de registro principal 
-├── style.css          # Estilos da página de login 
-├── registro.css       # Estilos da página de registro 
+registro-futurista/                                                                                                                                                                                          
+├── index.html         # Página de login                                                                                                                                                                     
+├── registro.html      # Página de registro principal                                                                                                                                                        
+├── style.css          # Estilos da página de login                                                                                                                                                          
+├── registro.css       # Estilos da página de registro                                                                                                                                                       
 └── README.md          # Documentação do projeto
 
 💡 Ideias Futuras
