@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Registro Futurista</title>
+  <link rel="stylesheet" href="registro.css" />
+</head>
+<body>
+  <div class="background">
+    <!-- Botão flutuante de voltar -->
+    <a href="index.html" class="btn-voltar">⬅ Voltar</a>
+
+    <div class="login-box">
+      <h2>📝 Criar Conta</h2>
+      <form id="formRegistro">
+        <div class="input-group">
+          <input type="text" id="nome" required />
+          <label>Nome completo</label>
+        </div>
+        <div class="input-group">
+          <input type="email" id="email" required />
+          <label>Email</label>
+        </div>
+        <div class="input-group">
+          <input type="text" id="usuario" required />
+          <label>Usuário</label>
+        </div>
+        <div class="input-group">
+          <input type="password" id="senha" required />
+          <label>Senha</label>
+        </div>
+        <button type="submit" class="btn-login">Registrar</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    // Validação simples para impedir envio vazio
+    document.getElementById("formRegistro").addEventListener("submit", function (e) {
+      const nome = document.getElementById("nome").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const usuario = document.getElementById("usuario").value.trim();
+      const senha = document.getElementById("senha").value.trim();
+
+      if (!nome || !email || !usuario || !senha) {
+        e.preventDefault();
+        alert("Por favor, preencha todos os campos antes de continuar.");
+      } else {
+        alert("Registro concluído com sucesso!");
+        // Aqui você pode redirecionar ou enviar os dados para o backend
+      }
+    });
+  </script>
+</body>
+</html>
