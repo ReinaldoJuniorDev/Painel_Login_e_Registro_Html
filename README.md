@@ -37,3 +37,30 @@ Uma página de registro com visual cibernético, animações neon e validação 
 ---
 
 ## 📁 Estrutura de Arquivos
+registro-futurista/ 
+├── index.html         # Página de login 
+├── registro.html      # Página de registro principal 
+├── style.css          # Estilos da página de login 
+├── registro.css       # Estilos da página de registro 
+└── README.md          # Documentação do projeto
+
+💡 Ideias Futuras
+- Integração com backend (PHP, Node.js ou Firebase)
+- Armazenamento de dados em banco de dados
+- Validação avançada com expressões regulares
+- Tema escuro/claro com alternância dinâmica
+- Efeitos sonoros e partículas interativas
+
+👨‍💻 Autor
+Reinaldo
+Desenvolvedor apaixonado por interfaces criativas e experiências imersivas.
+🔗 LinkedIn(https://www.linkedin.com/in/reinaldodgjunior/) • 🔗 GitHub
+
+📄 Licença
+Este projeto está licenciado sob os termos da licença MIT.
+
+---
+
+Se quiser que eu gere uma versão com links reais, GIF de demonstração ou que publique isso direto no GitHub com você, é só me chamar!
+
+
